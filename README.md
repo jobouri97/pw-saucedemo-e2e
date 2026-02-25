@@ -1,3 +1,5 @@
+[![Playwright Tests](https://github.com/jobouri97/pw-saucedemo-e2e/actions/workflows/playwright.yml/badge.svg)](https://github.com/jobouri97/pw-saucedemo-e2e/actions/workflows/playwright.yml)
+
 # Playwright E2E - SauceDemo (QA Automation Portfolio)
 
 End-to-end test automation project using **Playwright + TypeScript** against the public demo app **SauceDemo**.
